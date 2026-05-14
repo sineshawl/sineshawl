@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sineshaw Legese and I'm a Data Scientist. Wellcome to my GitHub account.</h2>
+<h2 align="left">Hi 👋! My name is Sineshaw Legese, and I'm a Data Scientist. Welcome to my GitHub account.</h2>
 
 ###
 
